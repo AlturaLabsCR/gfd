@@ -1,4 +1,4 @@
-import gfd.ui as w
+import gfd
 
 if __name__ == "__main__":
-    w.run("es")
+    gfd.run("es")
